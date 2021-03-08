@@ -1,0 +1,4 @@
+import errno
+
+AVERROR_EAGAIN = errno.EAGAIN
+AVERROR_EOF = -541478725
